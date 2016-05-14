@@ -1,0 +1,136 @@
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.xr.xml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.exe
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.pdb
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.build.appxrecipe
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.exe
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.pdb
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Game.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Game.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Options.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Options.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Game.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Game.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.exe
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.pdb
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Game.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Level_Select.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Options.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Tutorial.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.xr.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.exe
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.pdb
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.build.appxrecipe
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Options.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\Options.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\App.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Game.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Level_Select.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Options.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Tutorial.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.xr.xml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.exe
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.pdb
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\resources.pri
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.build.appxrecipe
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Game.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Game.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Options.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Options.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\App.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Game.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Options.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\App.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Game.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Level_Select.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Options.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Tutorial.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.exe
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\Test.WindowsPhone.pdb
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\ProjectArchitectures.txt

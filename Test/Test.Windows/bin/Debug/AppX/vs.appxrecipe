@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MUS7PQJ</Machine>
+    <WindowsUser>akty7</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e08413d6-e01f-46f4-a7ee-2db635059210</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7C1E8C1E26338724B3B5039435272075B10569850F31C7DFBE4EE2DBDE1B9855</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e08413d6-e01f-46f4-a7ee-2db635059210_1.0.0.0_neutral__qktyc2x0pq96t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e08413d6-e01f-46f4-a7ee-2db635059210_qktyc2x0pq96t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e08413d6-e01f-46f4-a7ee-2db635059210</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ankush</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T06:52:08.220</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.exe">
+      <PackagePath>Test.Windows.exe</PackagePath>
+      <Modified>2016-01-31T08:08:20.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2016-01-30T11:38:45.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\1454154921906716.png">
+      <PackagePath>Assets\1454154921906716.png</PackagePath>
+      <Modified>2016-01-30T21:16:45.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\145415492190676.png">
+      <PackagePath>Assets\145415492190676.png</PackagePath>
+      <Modified>2016-01-30T21:18:18.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\BackButton.scale-180.png">
+      <PackagePath>Assets\BackButton.scale-180.png</PackagePath>
+      <Modified>2016-01-30T12:04:20.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\d33d587a-6d48-4b94-cb37-61e2fca5f347.png">
+      <PackagePath>Assets\d33d587a-6d48-4b94-cb37-61e2fca5f347.png</PackagePath>
+      <Modified>2016-01-30T12:13:26.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:28:21.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:27:30.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\asteroidL.png">
+      <PackagePath>Assets\Objects\asteroidL.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\FRB_nrao.png">
+      <PackagePath>Assets\Objects\FRB_nrao.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\blueplanet.png">
+      <PackagePath>Assets\Objects\Planets\blueplanet.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\Calderis2.png">
+      <PackagePath>Assets\Objects\Planets\Calderis2.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\Desert_planet_stock_by_commandereve-d32do8o.png">
+      <PackagePath>Assets\Objects\Planets\Desert_planet_stock_by_commandereve-d32do8o.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\GasGiant-Ca04.png">
+      <PackagePath>Assets\Objects\Planets\GasGiant-Ca04.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\Lava_planet.png">
+      <PackagePath>Assets\Objects\Planets\Lava_planet.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\planet___earth_by_ulimann644-d55bagt.png">
+      <PackagePath>Assets\Objects\Planets\planet___earth_by_ulimann644-d55bagt.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Planets\the_ice_planet.png">
+      <PackagePath>Assets\Objects\Planets\the_ice_planet.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\rocktropiaHD.png">
+      <PackagePath>Assets\Objects\rocktropiaHD.png</PackagePath>
+      <Modified>2016-01-30T11:09:17.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:11:22.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:09:46.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:08:14.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:32:41.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:57:49.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:34:17.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:56:13.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:54:05.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:55:12.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T00:56:42.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\1.PNG">
+      <PackagePath>1.PNG</PackagePath>
+      <Modified>2016-01-31T03:50:54.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\2.PNG">
+      <PackagePath>2.PNG</PackagePath>
+      <Modified>2016-01-31T03:51:12.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\3.PNG">
+      <PackagePath>3.PNG</PackagePath>
+      <Modified>2016-01-31T03:51:28.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\4.PNG">
+      <PackagePath>4.PNG</PackagePath>
+      <Modified>2016-01-31T03:51:41.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\5.PNG">
+      <PackagePath>5.PNG</PackagePath>
+      <Modified>2016-01-31T03:51:52.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\asteroid.png">
+      <PackagePath>asteroid.png</PackagePath>
+      <Modified>2016-01-30T19:24:25.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot.png">
+      <PackagePath>dot.png</PackagePath>
+      <Modified>2016-01-30T22:06:22.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot1.png">
+      <PackagePath>dot1.png</PackagePath>
+      <Modified>2016-01-31T02:31:15.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\gravity.png">
+      <PackagePath>gravity.png</PackagePath>
+      <Modified>2016-01-30T23:42:11.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\invgravity.png">
+      <PackagePath>invgravity.png</PackagePath>
+      <Modified>2016-01-31T04:11:01.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+      <Modified>2016-01-31T04:26:53.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\worm.png">
+      <PackagePath>worm.png</PackagePath>
+      <Modified>2016-01-30T21:13:09.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\028b5H0.jpg">
+      <PackagePath>Assets\Backgrounds\028b5H0.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\9538BgN.jpg">
+      <PackagePath>Assets\Backgrounds\9538BgN.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\android-1080x1920-wallpaper_01292.jpg">
+      <PackagePath>Assets\Backgrounds\android-1080x1920-wallpaper_01292.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\cargo_ship_by_stoupa-d88j33s.jpg">
+      <PackagePath>Assets\Backgrounds\cargo_ship_by_stoupa-d88j33s.jpg</PackagePath>
+      <Modified>2016-01-30T15:20:00.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\Deep Space Wallpaper 1920X1080.jpg">
+      <PackagePath>Assets\Backgrounds\Deep Space Wallpaper 1920X1080.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\deep_space-wallpaper-1280x768.jpg">
+      <PackagePath>Assets\Backgrounds\deep_space-wallpaper-1280x768.jpg</PackagePath>
+      <Modified>2016-01-30T12:11:50.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\Deep_Space.jpg">
+      <PackagePath>Assets\Backgrounds\Deep_Space.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\phone_wallpapers_z07.jpg">
+      <PackagePath>Assets\Backgrounds\phone_wallpapers_z07.jpg</PackagePath>
+      <Modified>2016-01-31T00:46:26.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\photos-of-deep-space-telescope-hubble.jpg">
+      <PackagePath>Assets\Backgrounds\photos-of-deep-space-telescope-hubble.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\Space iPhone 6 Wallpapers 54.jpg">
+      <PackagePath>Assets\Backgrounds\Space iPhone 6 Wallpapers 54.jpg</PackagePath>
+      <Modified>2016-01-31T00:40:35.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Backgrounds\_DSC4484.jpg">
+      <PackagePath>Assets\Backgrounds\_DSC4484.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:02.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Meteor V1.jpg">
+      <PackagePath>Assets\Objects\Meteor V1.jpg</PackagePath>
+      <Modified>2016-01-30T11:09:17.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot1.jpg">
+      <PackagePath>dot1.jpg</PackagePath>
+      <Modified>2016-01-31T02:27:53.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\gravity_field.jpg">
+      <PackagePath>gravity_field.jpg</PackagePath>
+      <Modified>2016-01-30T18:56:24.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Main.mp3">
+      <PackagePath>Assets\Objects\Main.mp3</PackagePath>
+      <Modified>2016-01-30T15:59:28.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Zimmer.mp3">
+      <PackagePath>Assets\Zimmer.mp3</PackagePath>
+      <Modified>2016-01-30T17:57:13.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-1.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-1.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-3.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-3.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-4.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-4.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-5.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-5.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-6 %282%29.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-6 %282%29.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-6.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-6.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-7.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-7.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-8.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-8.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\Assets\Objects\Spinning-asteroid-9.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-9.gif</PackagePath>
+      <Modified>2016-01-30T11:09:17.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.xr.xml">
+      <PackagePath>Test.Windows.xr.xml</PackagePath>
+      <Modified>2016-01-31T06:52:07.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-30T17:32:52.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+      <Modified>2016-01-31T06:52:07.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\High_Score.xbf">
+      <PackagePath>High_Score.xbf</PackagePath>
+      <Modified>2016-01-31T07:52:23.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Level Select.xbf">
+      <PackagePath>Level Select.xbf</PackagePath>
+      <Modified>2016-01-31T06:52:07.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-31T06:52:07.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+      <Modified>2016-01-31T06:52:07.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Tutorial.xbf">
+      <PackagePath>Tutorial.xbf</PackagePath>
+      <Modified>2016-01-31T04:54:16.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+      <Modified>2016-01-30T11:38:45.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+      <Modified>2016-01-30T11:38:45.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-31T08:02:31.167</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

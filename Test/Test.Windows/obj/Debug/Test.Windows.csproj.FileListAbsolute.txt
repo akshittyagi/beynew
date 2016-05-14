@@ -1,0 +1,181 @@
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\App.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\MainPage.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Test.Windows.xr.xml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Test.Windows.exe
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Test.Windows.pdb
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\resources.pri
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\AppxManifest.xml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Test.Windows.build.appxrecipe
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\App.g.i.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\App.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\MainPage.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\App.xaml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\App.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\MainPage.xaml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\MainPage.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Test.Windows.exe
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Test.Windows.pdb
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\priconfig.xml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\layout.resfiles
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\resources.resfiles
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\pri.resfiles
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\qualifiers.txt
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\ProjectArchitectures.txt
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Level Select.g.i.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Level Select.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Options.g.i.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Options.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Tutorial.g.i.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Tutorial.g.cs
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Level Select.xaml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Level Select.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Options.xaml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Tutorial.xaml
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Options.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Tutorial.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Level Select.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Options.xbf
+c:\users\ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Tutorial.xbf
+C:\Users\Ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Test.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Test.Windows.csproj.GenerateResource.Cache
+C:\Users\Ankush\documents\visual studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.Windows\bin\Debug\Game.xbf
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Game.g.i.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Game.g.cs
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Game.xaml
+C:\Users\Ankush\Documents\Visual Studio 2015\Projects\Test\Test\Test.Windows\obj\Debug\Game.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\App.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Game.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Level Select.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\MainPage.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Options.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Tutorial.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Test.Windows.xr.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Test.Windows.exe
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Test.Windows.pdb
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\resources.pri
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\Test.Windows.build.appxrecipe
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Test.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\App.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\App.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Game.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Game.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Level Select.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Level Select.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Options.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Options.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Tutorial.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Tutorial.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\App.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Level Select.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\MainPage.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Options.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Tutorial.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\App.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Level Select.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\MainPage.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Options.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Tutorial.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Game.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Game.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Test.Windows.exe
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Test.Windows.pdb
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\Test.Windows.csproj.GenerateResource.Cache
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\priconfig.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\layout.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\resources.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\pri.resfiles
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\qualifiers.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\bin\Debug\High_Score.xbf
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\High_Score.g.i.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\High_Score.g.cs
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\High_Score.xaml
+C:\Users\Shrey\Downloads\Test\Test\Test.Windows\obj\Debug\High_Score.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\App.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Game.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\High_Score.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Level Select.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\MainPage.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Options.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Tutorial.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.xr.xml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.exe
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.pdb
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\resources.pri
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\AppxManifest.xml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\Test.Windows.build.appxrecipe
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Test.Windows.csprojResolveAssemblyReference.cache
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\App.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\App.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Game.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Game.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\High_Score.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\High_Score.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Level Select.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Level Select.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\MainPage.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Options.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Options.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Tutorial.g.i.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Tutorial.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\App.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Game.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\High_Score.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Level Select.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\MainPage.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Options.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Tutorial.xaml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\App.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Game.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\High_Score.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Level Select.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\MainPage.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Options.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Tutorial.xbf
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Test.Windows.exe
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Test.Windows.pdb
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\Test.Windows.csproj.GenerateResource.Cache
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\priconfig.xml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\layout.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\resources.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\pri.resfiles
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\qualifiers.txt
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\akty7\Desktop\Test\Test\Test.Windows\obj\Debug\ProjectArchitectures.txt

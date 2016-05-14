@@ -1,0 +1,62 @@
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\App.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Game.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Level Select.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\MainPage.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Options.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Tutorial.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Test.Windows.xr.xml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Test.Windows.exe
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Test.Windows.pdb
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\resources.pri
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\AppxManifest.xml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\Test.Windows.build.appxrecipe
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\WinRTXamlToolkit.dll
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\WinRTXamlToolkit.pri
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\App.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\App.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Game.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Game.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Level Select.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Level Select.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\MainPage.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Options.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Options.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Tutorial.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Tutorial.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\App.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Game.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Level Select.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\MainPage.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Options.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\App.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Game.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Level Select.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\MainPage.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Options.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Tutorial.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Tutorial.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Test.Windows.exe
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Test.Windows.pdb
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Test.Windows.csproj.GenerateResource.Cache
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\priconfig.xml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\layout.resfiles
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\resources.resfiles
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\pri.resfiles
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\qualifiers.txt
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\WinRTXamlToolkit.pri.xml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\ProjectArchitectures.txt
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\bin\Release\High_Score.xbf
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\Test.Windows.csprojResolveAssemblyReference.cache
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\High_Score.g.i.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\High_Score.g.cs
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\High_Score.xaml
+C:\Users\akty7\Desktop\visual studio\Test\Test\Test.Windows\obj\Release\High_Score.xbf

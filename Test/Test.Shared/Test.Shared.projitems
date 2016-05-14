@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>6912f670-dc81-4f10-9bfc-00d90b450a05</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Test</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Class1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Levels.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)1.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)2.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)3.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)4.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)5.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)asteroid.png" />
+    <Content Include="$(MSBuildThisFileDirectory)dot.png" />
+    <Content Include="$(MSBuildThisFileDirectory)dot1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)dot1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)gravity.png" />
+    <Content Include="$(MSBuildThisFileDirectory)gravity_field.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)invgravity.png" />
+    <Content Include="$(MSBuildThisFileDirectory)pause.png" />
+    <Content Include="$(MSBuildThisFileDirectory)worm.png" />
+  </ItemGroup>
+</Project>

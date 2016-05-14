@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Test.High_Score"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Test"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid >
+        <Image x:Name="image" HorizontalAlignment="Left" Height="1600" VerticalAlignment="Top" Width="2160" Source="Assets/Backgrounds/photos-of-deep-space-telescope-hubble.jpg" Margin="-34,-38,-147,-66" Stretch="UniformToFill"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="89" Margin="529,26,0,0" TextWrapping="Wrap" Text="High Scores" VerticalAlignment="Top" Width="793" FontSize="64" FontFamily="Castellar" TextAlignment="Right"/>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Source="Assets/Zimmer.mp3"/>
+        <Button x:Name="back" HorizontalAlignment="Left" Height="70" Margin="1,20,0,0" VerticalAlignment="Top" Width="110" BorderThickness="0" Click="back_Click">
+            <Image Source="Assets/145415492190676.png" Height="55" Width="56"/>
+        </Button>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="92" Margin="417,628,0,0" TextWrapping="Wrap" Text="3.012" VerticalAlignment="Top" Width="553" TextAlignment="Center" FontSize="42.667"/>
+        <FlipView x:Name="flipView" HorizontalAlignment="Left" Height="406" Margin="416,186,0,0" VerticalAlignment="Top" Width="559">
+            <Image Source="1.png"/>
+            <Image Source="2.png"/>
+            <Image Source="3.png"/>
+            <Image Source="4.png"/>
+            <Image Source="5.png"/>
+        </FlipView>
+    </Grid>
+</Page>

@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MUS7PQJ</Machine>
+    <WindowsUser>akty7</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>176ad8da-c675-4694-9088-e02aa37c61c6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.exe">
+      <PackagePath>Test.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\1454154921906716.png">
+      <PackagePath>Assets\1454154921906716.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\145415492190676.png">
+      <PackagePath>Assets\145415492190676.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\BackButton.scale-180.png">
+      <PackagePath>Assets\BackButton.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\d33d587a-6d48-4b94-cb37-61e2fca5f347.png">
+      <PackagePath>Assets\d33d587a-6d48-4b94-cb37-61e2fca5f347.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\asteroidL.png">
+      <PackagePath>Assets\Objects\asteroidL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\FRB_nrao.png">
+      <PackagePath>Assets\Objects\FRB_nrao.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\blueplanet.png">
+      <PackagePath>Assets\Objects\Planets\blueplanet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\Calderis2.png">
+      <PackagePath>Assets\Objects\Planets\Calderis2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\Desert_planet_stock_by_commandereve-d32do8o.png">
+      <PackagePath>Assets\Objects\Planets\Desert_planet_stock_by_commandereve-d32do8o.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\GasGiant-Ca04.png">
+      <PackagePath>Assets\Objects\Planets\GasGiant-Ca04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\Lava_planet.png">
+      <PackagePath>Assets\Objects\Planets\Lava_planet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\planet___earth_by_ulimann644-d55bagt.png">
+      <PackagePath>Assets\Objects\Planets\planet___earth_by_ulimann644-d55bagt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Planets\the_ice_planet.png">
+      <PackagePath>Assets\Objects\Planets\the_ice_planet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\rocktropiaHD.png">
+      <PackagePath>Assets\Objects\rocktropiaHD.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\1.PNG">
+      <PackagePath>1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\2.PNG">
+      <PackagePath>2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\3.PNG">
+      <PackagePath>3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\4.PNG">
+      <PackagePath>4.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\5.PNG">
+      <PackagePath>5.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\asteroid.png">
+      <PackagePath>asteroid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot.png">
+      <PackagePath>dot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot1.png">
+      <PackagePath>dot1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\gravity.png">
+      <PackagePath>gravity.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\invgravity.png">
+      <PackagePath>invgravity.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\worm.png">
+      <PackagePath>worm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Main.mp3">
+      <PackagePath>Assets\Main.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Main.mp3">
+      <PackagePath>Assets\Objects\Main.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Zimmer.mp3">
+      <PackagePath>Assets\Zimmer.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Meteor V1.jpg">
+      <PackagePath>Assets\Objects\Meteor V1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\028b5H0.jpg">
+      <PackagePath>Assets\Backgrounds\028b5H0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\9538BgN.jpg">
+      <PackagePath>Assets\Backgrounds\9538BgN.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\android-1080x1920-wallpaper_01292.jpg">
+      <PackagePath>Assets\Backgrounds\android-1080x1920-wallpaper_01292.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\cargo_ship_by_stoupa-d88j33s.jpg">
+      <PackagePath>Assets\Backgrounds\cargo_ship_by_stoupa-d88j33s.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\Deep Space Wallpaper 1920X1080.jpg">
+      <PackagePath>Assets\Backgrounds\Deep Space Wallpaper 1920X1080.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\deep_space-wallpaper-1280x768.jpg">
+      <PackagePath>Assets\Backgrounds\deep_space-wallpaper-1280x768.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\Deep_Space.jpg">
+      <PackagePath>Assets\Backgrounds\Deep_Space.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\phone_wallpapers_z07.jpg">
+      <PackagePath>Assets\Backgrounds\phone_wallpapers_z07.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\photos-of-deep-space-telescope-hubble.jpg">
+      <PackagePath>Assets\Backgrounds\photos-of-deep-space-telescope-hubble.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\Space iPhone 6 Wallpapers 54.jpg">
+      <PackagePath>Assets\Backgrounds\Space iPhone 6 Wallpapers 54.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\_DSC4484.jpg">
+      <PackagePath>Assets\Backgrounds\_DSC4484.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\dot1.jpg">
+      <PackagePath>dot1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.Shared\gravity_field.jpg">
+      <PackagePath>gravity_field.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-1.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-1.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-3.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-3.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-4.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-4.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-5.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-5.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-6 %282%29.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-6 %282%29.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-6.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-6.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-7.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-7.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-8.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-8.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Objects\Spinning-asteroid-9.gif">
+      <PackagePath>Assets\Objects\Spinning-asteroid-9.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\Assets\Backgrounds\barnard7v4.jpeg">
+      <PackagePath>Assets\Backgrounds\barnard7v4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Test.WindowsPhone.xr.xml">
+      <PackagePath>Test.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Level_Select.xbf">
+      <PackagePath>Level_Select.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\Tutorial.xbf">
+      <PackagePath>Tutorial.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\akty7\Desktop\Test\Test\Test.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

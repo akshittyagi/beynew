@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="Test.Game"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Test"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid >
+        <Image x:Name="imagewall" Source="Assets/Backgrounds/phone_wallpapers_z07.jpg" HorizontalAlignment="Left" Height="1600" Margin="-33,-25,-182,-121" VerticalAlignment="Top" Width="2160" Stretch="UniformToFill"/>
+
+        <!--<Ellipse Name="circle1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="461,284,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>-->
+        <!--
+        <Image x:Name="bladeimg" Source="whiteblade.png" Visibility="Collapsed" />
+        <Image x:Name="Stopper" Source="Stopper.png"  Visibility="Collapsed"/>
+        <Image x:Name="whiteblade2" HorizontalAlignment="Left" Height="100" Margin="631,183,0,0" VerticalAlignment="Top" Width="100" Source="whiteblade2.png" Visibility="Collapsed"/>
+        <Image x:Name="Stopper2" HorizontalAlignment="Left" Height="100" Margin="631,183,0,0" VerticalAlignment="Top" Width="100" Source="Stopper2.png" Visibility="Collapsed"/>-->
+        <Image x:Name="gravityimg" Source="gravity.png" Visibility="Collapsed" />
+        <Image x:Name="ballimg" Source="asteroid.png" Visibility="Collapsed" />
+        <Image x:Name="invgravity" Source="invgravity.png" Visibility="Collapsed" />
+        <Image x:Name="safe" Source="worm.png" Visibility="Collapsed" />
+        <Image x:Name="dot" Source="dot1.png" Visibility="Collapsed" />
+        <Canvas Name="GameCanvas">
+
+            
+            <!--Make this width and heigh generic-->
+            <!--<Button x:Name="button" Content="Button" Canvas.Left="677" Canvas.Top="100" Click="button_Click"/>-->
+            <!--<Canvas Height="100" Width="100" Top="0" Left="0" Background="Red"/>-->
+            <!--<Canvas Height="100" Width="100" Top="100" Left="100" Background="Green"/>
+        <Canvas Height="100" Width="100" Top="50" Left="50" Background="Blue"/>-->
+        </Canvas>
+        <Canvas x:Name="testc" />
+
+        <Canvas>
+            <Canvas.Resources>
+                <Storyboard x:Name="myStoryboard">
+                    <DoubleAnimation x:Name="Chutya" Storyboard.TargetName="OpaqueRect" Storyboard.TargetProperty="Opacity" From="1.0" To="0.0" Duration="0:0:3" />
+                    <!--<FadeInThemeAnimation x:Name="Maakichoot" Storyboard.TargetName="OpaqueRect" Storyboard.TargetProperty="Opacity" Duration="0:0:1"/>-->
+                </Storyboard>
+            </Canvas.Resources>
+
+        </Canvas>
+        <Canvas>
+            <Canvas.Resources>
+                <Storyboard x:Name="myStoryboard2">
+
+                    <DoubleAnimation x:Name="Choot" Storyboard.TargetName="OpaqueRect" Storyboard.TargetProperty="Opacity" From="0.0" To="1.0" Duration="0:0:1"/>
+                </Storyboard>
+            </Canvas.Resources>
+            <MediaElement x:Name="mediaElement" Height="93" Canvas.Left="1017" Canvas.Top="650" Width="290" Source="Assets/Zimmer.mp3"/>
+        </Canvas>
+
+        <Rectangle x:Name="OpaqueRect" Opacity="0.0" Fill="#FFF4F4F5"  Stroke="Black"/>
+        <TextBlock x:Name="textBlockHS" Visibility="Collapsed" HorizontalAlignment="Left" Margin="525,192,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="back" HorizontalAlignment="Left" Height="70" Margin="10,6,0,0" VerticalAlignment="Top" Width="89" BorderThickness="0" Click="back_Click">
+            <Image Source="Assets/145415492190676.png" Height="55" Width="56"/>
+        </Button>
+        <Button x:Name="restart" HorizontalAlignment="Left" Height="70" Margin="104,4,0,0" VerticalAlignment="Top" Width="84" BorderThickness="0" Click="restart_Click" >
+            <Image Source="Assets/1454154921906716.png" Height="55" Width="56"/>
+        </Button>
+        <Button x:Name="button" HorizontalAlignment="Left" Margin="207,7,0,0" VerticalAlignment="Top" BorderThickness="0" Click="button_Click">
+            <Image Source="pause.png" Height="55" Width="55"/>
+        </Button>
+        <TextBox x:Name="textBlock" HorizontalAlignment="Left" Margin="25,647,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="48" Background="#FF080000" Foreground="#FFF9F7F7"/>
+
+
+    </Grid>
+</Page>

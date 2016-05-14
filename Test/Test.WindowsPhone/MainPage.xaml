@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Test.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Test"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid>
+        <Image x:Name="image" Source="Assets/d33d587a-6d48-4b94-cb37-61e2fca5f347.png" HorizontalAlignment="Left" Height="869" Margin="0,-3,-32,-98" VerticalAlignment="Top" Width="1398"/>
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Left" Height="64" Margin="57,138,0,0" VerticalAlignment="Top" Width="305" FontFamily="Castellar" FontSize="29.333" Click="start_Click" >
+
+        </Button>
+        <Button x:Name="tutorial" Content="Tutorial" HorizontalAlignment="Left" Height="64" Margin="57,236,0,0" VerticalAlignment="Top" Width="305" FontFamily="Castellar" FontSize="29.333" Click="tutorial_Click"/>
+        <Button x:Name="options" Content="Options" HorizontalAlignment="Left" Height="63" Margin="57,334,0,0" VerticalAlignment="Top" Width="305" FontSize="29.333" FontFamily="Castellar" Click="options_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="89" Margin="503,18,0,0" TextWrapping="Wrap" Text="Game Title" VerticalAlignment="Top" Width="793" FontSize="64" FontFamily="Castellar" TextAlignment="Right"/>
+        <Button x:Name="exit" Content="Exit" HorizontalAlignment="Left" Height="61" Margin="1065,678,0,0" VerticalAlignment="Top" Width="234" FontFamily="Castellar" FontSize="29.333" Click="exit_Click"/>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="162" Margin="503,398,0,0" VerticalAlignment="Top" Width="243" IsLooping="True" Source="Assets/Zimmer.mp3"/>
+        <Button x:Name="Highscore" Content="High Scores" HorizontalAlignment="Left" Height="63" Margin="57,432,0,0" VerticalAlignment="Top" Width="305" FontSize="29.333" FontFamily="Castellar" Click="options_Click"/>
+    </Grid>
+</Page>
