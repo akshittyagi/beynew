@@ -24,14 +24,22 @@
     <Content Include="$(MSBuildThisFileDirectory)3.PNG" />
     <Content Include="$(MSBuildThisFileDirectory)4.PNG" />
     <Content Include="$(MSBuildThisFileDirectory)5.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)agfig4.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)asteroid.gif" />
     <Content Include="$(MSBuildThisFileDirectory)asteroid.png" />
+    <Content Include="$(MSBuildThisFileDirectory)bleh.gif" />
     <Content Include="$(MSBuildThisFileDirectory)dot.png" />
     <Content Include="$(MSBuildThisFileDirectory)dot1.jpg" />
     <Content Include="$(MSBuildThisFileDirectory)dot1.png" />
     <Content Include="$(MSBuildThisFileDirectory)gravity.png" />
     <Content Include="$(MSBuildThisFileDirectory)gravity_field.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)hypnospiral1.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)images.jpg" />
     <Content Include="$(MSBuildThisFileDirectory)invgravity.png" />
+    <Content Include="$(MSBuildThisFileDirectory)loop.gif" />
     <Content Include="$(MSBuildThisFileDirectory)pause.png" />
+    <Content Include="$(MSBuildThisFileDirectory)pulsar.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)worm.gif" />
     <Content Include="$(MSBuildThisFileDirectory)worm.png" />
   </ItemGroup>
 </Project>
