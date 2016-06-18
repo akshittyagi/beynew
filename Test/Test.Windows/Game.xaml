@@ -3,6 +3,7 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Test"
+    xmlns:gif="using:XamlAnimatedGif"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
@@ -16,11 +17,12 @@
         <Image x:Name="Stopper" Source="Stopper.png"  Visibility="Collapsed"/>
         <Image x:Name="whiteblade2" HorizontalAlignment="Left" Height="100" Margin="631,183,0,0" VerticalAlignment="Top" Width="100" Source="whiteblade2.png" Visibility="Collapsed"/>
         <Image x:Name="Stopper2" HorizontalAlignment="Left" Height="100" Margin="631,183,0,0" VerticalAlignment="Top" Width="100" Source="Stopper2.png" Visibility="Collapsed"/>-->
-        <Image x:Name="gravityimg" Source="gravity.png" Visibility="Collapsed" />
+        <Image x:Name="gravityimg1" Source="gravity.png" Visibility="Collapsed" />
         <Image x:Name="ballimg" Source="asteroid.png" Visibility="Collapsed" />
         <Image x:Name="invgravity" Source="invgravity.png" Visibility="Collapsed" />
         <Image x:Name="safe" Source="worm.png" Visibility="Collapsed" />
-        <Image x:Name="dot" Source="dot1.png" Visibility="Collapsed" />
+        <Image x:Name="dot" Source="dot.png" Visibility="Collapsed" />
+        <Image x:Name="gravityimg" gif:AnimationBehavior.SourceUri="loop.gif" />
         <Canvas Name="GameCanvas">
 
             

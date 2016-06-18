@@ -50,6 +50,9 @@ namespace Test
         public int radius;
         public double scalingf;
 
+        public double afactor = 10000/2;
+        public double safea = 10;
+
        public void setzero()
         {
             velx = 0;
@@ -106,10 +109,25 @@ namespace Test
             double answer = ax;
             for (int i = 0; i < x.Count; i++)
             {
-                answer += (200 / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))) * (x[i] - xpos) / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)));
+                //answer += (100 / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))) * (x[i] - xpos) / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)));
+                //answer += 100 / getacc(x[i], xpos, y[i], ypos);
+                double a = (((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))*Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) / (x[i] - xpos);
+                //if(a)
+                a = afactor / (1 * a);
+
+                if (Math.Abs(a)>safea)
+                {
+                    return 0;
+                }
+
+                else
+                {
+                    answer= answer+a;
+                }
             }
             return answer;
         }
+
         public double getAccelerationx2(List<double> x, List<double> y)
         {
             if (type == 3 || type == 4 || type == 2)
@@ -119,7 +137,19 @@ namespace Test
             double answer = ax;
             for (int i = 0; i < x.Count; i++)
             {
-                answer -= (200 / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))) * (x[i] - xpos) / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)));
+                double a = (((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) * Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) / (x[i] - xpos);
+                //if(a)
+                a = afactor / (1 * a);
+
+                if (Math.Abs(a)>safea)
+                {
+                    return 0;
+                }
+
+                else
+                {
+                    answer = answer - a;
+                }
             }
             return answer;
         }
@@ -132,7 +162,20 @@ namespace Test
             double answer = ay;
             for (int i = 0; i < y.Count; i++)
             {
-                answer -= (200 / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))) * (y[i] - ypos) / (Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))));
+                double a = (((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) * Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) / (y[i] - ypos);
+                //if(a)
+                a = afactor / (1 * a);
+
+                if (Math.Abs(a)>safea)
+                {
+                    return 0;
+                }
+
+                else
+                {
+                    answer = answer - a;
+
+                }
             }
             return answer;
         }
@@ -146,11 +189,24 @@ namespace Test
             double answer = ay;
             for (int i = 0; i < y.Count; i++)
             {
-                answer += (200 / Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos)))) * (y[i] - ypos) / (Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))));
+                double a = (((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) * Math.Sqrt(((x[i] - xpos) * (x[i] - xpos)) + ((y[i] - ypos) * (y[i] - ypos))) / (y[i] - ypos);
+                //if(a)
+                a = afactor / (1 * a);
+
+                Debug.WriteLine("Valuse of a: " + a);
+
+                if (Math.Abs(a)>safea)
+                {
+                    return 0;
+                }
+
+                else
+                {
+                    answer = answer + a;
+                }
             }
             return answer;
         }
-
 
         public void updatespeed()
         {
@@ -164,23 +220,34 @@ namespace Test
             velx = (xposheld - xposrelease) / c;
             vely = (yposheld - yposrelease) / c;
 
-            if (Math.Abs(velx) > 30)
+            if (Math.Abs(velx) > 20)
             {
-                vely = vely * 30 / Math.Abs(velx);
-                velx = velx * 30 / Math.Abs(velx);
+                vely = vely * 20 / Math.Abs(velx);
+                velx = velx * 20 / Math.Abs(velx);
                 //velx = vely = 1;
             }
-            if (Math.Abs(vely) > 30)
+            if (Math.Abs(vely) > 20)
             {
-                velx = velx * 30 / Math.Abs(vely);
-                vely = vely * 30 / Math.Abs(vely);
+                velx = velx * 20 / Math.Abs(vely);
+                vely = vely * 20 / Math.Abs(vely);
                 // velx = vely = 1;
             }
 
+            checkvelocity();
         }
 
-
-
+        public void checkvelocity()
+        {
+            double velmax = 40;
+            double vel = velx * velx + vely * vely;
+            vel = Math.Sqrt(vel);
+            if (vel > velmax)
+            {
+                velx = velmax * velx / vel;
+                vely = velmax * vely / vel;
+            }
+            //Debug.WriteLine("Velocity X"+velx + "Velocity Y"+vely);
+        }
     }
 
     class Board
@@ -212,8 +279,6 @@ namespace Test
             {
                 AllBalls[i].setzero();
             }
-            //ispaused = false;
-
         }
 
         public Board()
@@ -234,10 +299,6 @@ namespace Test
             repulspointx = new List<double>();
             repulspointy = new List<double>();
             force = 0;
-            //rndgen = new Random(new System.DateTime().Millisecond);
-            //inittap = false;
-            /*for( int i=0;i<Levels.GetNumberOfLevels();i++)
-                level[i]=false;*/
         }
 
         public Board(double dimx, double dimy)
@@ -266,7 +327,6 @@ namespace Test
 
         public void AddWall(Wall w)
         {
-
             AllWalls.Add(w);
         }
         public void moveballs()
@@ -277,7 +337,6 @@ namespace Test
                 Ball Ballcons = AllBalls[i];
                 double radius = Ballcons.GetActualRadius();
                 double newvelx = Ballcons.velx + Ballcons.getAccelerationx(gravpointx, gravpointy) + Ballcons.getAccelerationx2(repulspointx, repulspointy);
-                //Debug.WriteLine("gravx:" + Ballcons.pointx);
                 double newvely = Ballcons.vely + Ballcons.getAccelerationy(gravpointx, gravpointy) + Ballcons.getAccelerationy2(repulspointx, repulspointy);
                 //Debug.WriteLine("accelerationy: "+Ballcons.returnaccelerationy(Ballcons.pointy)+"Vely:"+Ballcons.vely);
                 double newposx = Ballcons.xpos + newvelx;
@@ -293,13 +352,13 @@ namespace Test
                 if (newposx + radius > dimensionx)
                 {
                     Ballcons.velx = -Math.Abs(Ballcons.velx);
-                    //tickx = 500 * pi + tickx;
+                    //tickx = 2000 * pi + tickx;
                     //Debug.WriteLine("Collision 1 ");
                 }
                 if (newposx - radius < 0)
                 {
                     Ballcons.velx = Math.Abs(Ballcons.velx);
-                    //tickx = 500 * pi + tickx;
+                    //tickx = 2000 * pi + tickx;
                     //Debug.WriteLine("Collision 2 ");
                 }
 

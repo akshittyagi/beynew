@@ -76,6 +76,7 @@ namespace Test
             flipView.Height = dimy * 0.23;
             proceed.Margin = new Thickness(dimx / 2.25, dimy / 1.2, 0, 0);
             proceed.Width = back.Width * 2.5;
+            //proceed.FocusState
             //throw new NotImplementedException();
         }
 

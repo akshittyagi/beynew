@@ -26,6 +26,12 @@ namespace Test
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
+    /// 
+
+    //public class Music(){
+        
+    //};
+    
     public sealed partial class Game : Page
     {
         double screendimx, screendimy;
@@ -57,7 +63,8 @@ namespace Test
             String[] mess = scores.Split(' ');
             Debug.WriteLine(textBlock.Text);
             Debug.WriteLine(n);
-            try {
+            try
+            {
                 if (Convert.ToInt32(mess[n]) > Convert.ToInt32(textBlock.Text))
                 {
                     mess[n] = textBlock.Text;
@@ -125,9 +132,6 @@ namespace Test
             button.Margin = new Thickness(dimx / 7.5, dimy / 60, 0, 0);
             scalex = dimx / screendimx;
             scaley = dimy / screendimy;
-            //GameCanvas.
-
-            //throw new NotImplementedException();
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
@@ -147,18 +151,7 @@ namespace Test
             }
             
             l = Convert.ToInt32(m[1]);
-            //Debug.WriteLine(l);
-            //Debug.WriteLine(level);
             board = AllLevels.StoryLevels[l];
-            //ballarr = new Ellipse[board.AllBalls.Count];
-
-            //for (int i = 0; i < board.AllBalls.Count; i++)
-            //{
-            //    ballarr[i] = new Ellipse();
-            //    //textblockarr[i] = new TextBlock();
-            //    testc.Children.Add(ballarr[i]);
-            //    //testc.Children.Add(textblockarr[i]);
-            //}
         }
 
         DispatcherTimer dispatcherTimer;
@@ -198,7 +191,7 @@ namespace Test
                     
                     Ball ball = board.AllBalls[0];
                     ball.setvelocity(0, 0, 0, 0);
-                    Debug.WriteLine("Level Complete");
+                    //Debug.WriteLine("Level Complete");
 
                     myStoryboard2.Begin();
 
@@ -253,6 +246,7 @@ namespace Test
             
             if (!ispaused)
             {
+                t.Stop();
                 //Trailcopy = Trail;
                 ispaused = true;
                 //boardcopy = board;
@@ -261,6 +255,7 @@ namespace Test
             }
             else
             {
+                t.Start();
                 //Trail = Trailcopy;
                 //board = boardcopy;
                 ispaused = false;
@@ -302,17 +297,12 @@ namespace Test
             {
                 Ball balltodraw = board.AllBalls[i];
                 int ball_type = balltodraw.type;
-                //ballarr[i].Fill = new SolidColorBrush(Color.FromArgb(255, 128, 0, 0));
-                //ballarr[i].Stroke = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
-                //ballarr[i].StrokeThickness = 10 * screendimy / 1080;
-                //ballarr[i].Margin = new Thickness(balltodraw.xpos - balltodraw.GetActualRadius(), balltodraw.ypos - balltodraw.GetActualRadius(), 0, 0);
-                //ballarr[i].Width = 2 * balltodraw.GetActualRadius();
-                //ballarr[i].Height = 2 * balltodraw.GetActualRadius();
+                
                 Image i1 = new Image();
                 i1.Margin = new Thickness((balltodraw.xpos - balltodraw.GetActualRadius())*scalex, (balltodraw.ypos - balltodraw.GetActualRadius())*scaley, 0, 0);
                 i1.Width = 2 * balltodraw.GetActualRadius()*scalex;
                 i1.Height = 2 * balltodraw.GetActualRadius()*scalex;
-                //i1.Source = ballimg.Source;
+                
                 if (ball_type == 0)
                     i1.Source = ballimg.Source;
                 else if (ball_type == 2)
@@ -400,19 +390,14 @@ namespace Test
         public void setTrail(double x1, double y1, double x2, double y2)
         {
             double dist = Math.Sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
+            Trail = (int)dist / 100;
             if (dist > 600)
             {
                 Trail = 6;
             }
-            Trail = (int)dist / 100;
             trailx = x1 - x2;
             traily = y1 - y2;
         }
 
     }
-
-
-
-
-
 }

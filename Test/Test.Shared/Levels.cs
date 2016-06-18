@@ -33,17 +33,11 @@ namespace Test
             //Add levels here
             ////LEVEL 1
             Ball ball = new Ball(dimx / 10, dimy / 10, 0, 0, 0);
-            //Ball ball2 = new Ball(3*dimx / 5, 2 * dimy / 4, 0, 0, 3);
             Debug.WriteLine("Position hai x:" + ball.xpos + " y: " + ball.ypos);
-            //ball.ax = dimx / 6;
-            //ball.ay=
             Board board1 = new Board(dimx, dimy);
-            //board1.gravpointx.Add(3*dimx / 5);
-            //board1.gravpointy.Add(2 * dimy / 4);
             Ball ball3 = new Ball(dimx / 1.2, dimy / 1.2, 0, 0, 4);
             ball3.radius = 20;
             board1.AddBall(ball);
-            //board1.AddBall(ball2);
             board1.AddBall(ball3);
             StoryLevels.Add(board1);
             Ball ball2;
